@@ -123,7 +123,7 @@ As we saw above, there are **six** broken tests. Let's get them working.
    on the command line (don't forget to add `-m` when committing to include a
    message!)
 
-   **NOTE:** If you forget to include `-m` on when committing, you'll find you've
+   **NOTE:** If you frgeot to include `-m` on when committing, you'll find you've
    opened _vi_, the built in terminal text editor. To escape out of this editor,
    press the 'esc' key once, then type `:q!` to close the editor and return to
    the normal terminal.
